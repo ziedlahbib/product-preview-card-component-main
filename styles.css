@@ -20,7 +20,6 @@ body {
     width: 80vw;
     max-width: 600px;
     min-height: 300px;
-    position: relative; /* Ensure card-info is properly contained */
   }
   
   .card-info {
